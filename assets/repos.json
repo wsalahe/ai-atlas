@@ -1,0 +1,506 @@
+[
+ {
+  "rank": 1,
+  "full_name": "codecrafters-io/build-your-own-x",
+  "url": "https://github.com/codecrafters-io/build-your-own-x",
+  "description": "Master programming by recreating your favorite technologies from scratch",
+  "language": "Markdown",
+  "stars": 564799,
+  "license": "NO LICENSE"
+ },
+ {
+  "rank": 2,
+  "full_name": "sindresorhus/awesome",
+  "url": "https://github.com/sindresorhus/awesome",
+  "description": "Awesome lists about all kinds of interesting topics",
+  "language": "",
+  "stars": 541222,
+  "license": ""
+ },
+ {
+  "rank": 3,
+  "full_name": "public-apis/public-apis",
+  "url": "https://github.com/public-apis/public-apis",
+  "description": "A collective list of free APIs",
+  "language": "Python",
+  "stars": 500903,
+  "license": ""
+ },
+ {
+  "rank": 4,
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents",
+  "language": "TypeScript",
+  "stars": 474475,
+  "license": ""
+ },
+ {
+  "rank": 5,
+  "full_name": "freeCodeCamp/freeCodeCamp",
+  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "description": "freeCodeCamp.org open-source codebase and curriculum",
+  "language": "TypeScript",
+  "stars": 459512,
+  "license": "BSD-3-Clause"
+ },
+ {
+  "rank": 6,
+  "full_name": "EbookFoundation/free-programming-books",
+  "url": "https://github.com/EbookFoundation/free-programming-books",
+  "description": "Freely available programming books",
+  "language": "Python",
+  "stars": 402095,
+  "license": ""
+ },
+ {
+  "rank": 7,
+  "full_name": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "description": "AI agent framework",
+  "language": "TypeScript",
+  "stars": 395070,
+  "license": ""
+ },
+ {
+  "rank": 8,
+  "full_name": "donnemartin/system-design-primer",
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "description": "Learn how to design large-scale systems",
+  "language": "Python",
+  "stars": 378857,
+  "license": "CC-BY-4.0"
+ },
+ {
+  "rank": 9,
+  "full_name": "nilbuild/developer-roadmap",
+  "url": "https://github.com/nilbuild/developer-roadmap",
+  "description": "Interactive developer roadmaps and guides",
+  "language": "TypeScript",
+  "stars": 372602,
+  "license": ""
+ },
+ {
+  "rank": 10,
+  "full_name": "jwasham/coding-interview-university",
+  "url": "https://github.com/jwasham/coding-interview-university",
+  "description": "Complete computer science study plan",
+  "language": "",
+  "stars": 364816,
+  "license": ""
+ },
+ {
+  "rank": 11,
+  "full_name": "awesome-selfhosted/awesome-selfhosted",
+  "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+  "description": "Free software network services and web apps",
+  "language": "",
+  "stars": 339631,
+  "license": ""
+ },
+ {
+  "rank": 12,
+  "full_name": "vinta/awesome-python",
+  "url": "https://github.com/vinta/awesome-python",
+  "description": "Curated list of Python frameworks and libraries",
+  "language": "Python",
+  "stars": 336535,
+  "license": ""
+ },
+ {
+  "rank": 13,
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Agent skills collection",
+  "language": "Shell",
+  "stars": 330722,
+  "license": ""
+ },
+ {
+  "rank": 14,
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "Agentic skills framework and dev methodology",
+  "language": "Shell",
+  "stars": 324361,
+  "license": ""
+ },
+ {
+  "rank": 15,
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "Agent harness performance optimization system",
+  "language": "JavaScript",
+  "stars": 309143,
+  "license": ""
+ },
+ {
+  "rank": 16,
+  "full_name": "practical-tutorials/project-based-learning",
+  "url": "https://github.com/practical-tutorials/project-based-learning",
+  "description": "Curated list of project-based tutorials",
+  "language": "Python",
+  "stars": 290299,
+  "license": ""
+ },
+ {
+  "rank": 17,
+  "full_name": "deepseek-ai/deepseek-harness",
+  "url": "https://github.com/deepseek-ai/deepseek-harness",
+  "description": "DeepSeek plugin harness",
+  "language": "TypeScript",
+  "stars": 285710,
+  "license": ""
+ },
+ {
+  "rank": 18,
+  "full_name": "996icu/996.ICU",
+  "url": "https://github.com/996icu/996.ICU",
+  "description": "Protest repo against 996 work culture",
+  "language": "",
+  "stars": 277256,
+  "license": ""
+ },
+ {
+  "rank": 19,
+  "full_name": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "description": "AI agent framework",
+  "language": "Python",
+  "stars": 265496,
+  "license": ""
+ },
+ {
+  "rank": 20,
+  "full_name": "trimstray/the-book-of-secret-knowledge",
+  "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+  "description": "Collection of lists manuals cheatsheets and tools",
+  "language": "",
+  "stars": 260618,
+  "license": ""
+ },
+ {
+  "rank": 21,
+  "full_name": "torvalds/linux",
+  "url": "https://github.com/torvalds/linux",
+  "description": "Linux kernel source tree",
+  "language": "C",
+  "stars": 256506,
+  "license": "GPL-2.0-only WITH Linux-syscall-note"
+ },
+ {
+  "rank": 22,
+  "full_name": "react/react",
+  "url": "https://github.com/react/react",
+  "description": "Library for web and native user interfaces",
+  "language": "JavaScript",
+  "stars": 252932,
+  "license": "MIT"
+ },
+ {
+  "rank": 23,
+  "full_name": "multica-ai/andrej-karpathy-skills",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "description": "CLAUDE.md improvements for coding agents",
+  "language": "",
+  "stars": 235160,
+  "license": ""
+ },
+ {
+  "rank": 24,
+  "full_name": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "description": "Open source coding agent",
+  "language": "TypeScript",
+  "stars": 228663,
+  "license": ""
+ },
+ {
+  "rank": 25,
+  "full_name": "TheAlgorithms/Python",
+  "url": "https://github.com/TheAlgorithms/Python",
+  "description": "All algorithms implemented in Python",
+  "language": "Python",
+  "stars": 226402,
+  "license": "MIT"
+ },
+ {
+  "rank": 26,
+  "full_name": "vuejs/vue",
+  "url": "https://github.com/vuejs/vue",
+  "description": "Vue 2 repository",
+  "language": "TypeScript",
+  "stars": 212507,
+  "license": ""
+ },
+ {
+  "rank": 27,
+  "full_name": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "description": "Fair-code workflow automation platform with AI",
+  "language": "TypeScript",
+  "stars": 211869,
+  "license": ""
+ },
+ {
+  "rank": 28,
+  "full_name": "ossu/computer-science",
+  "url": "https://github.com/ossu/computer-science",
+  "description": "Path to free self-taught CS education",
+  "language": "HTML",
+  "stars": 211443,
+  "license": ""
+ },
+ {
+  "rank": 29,
+  "full_name": "yt-dlp/yt-dlp",
+  "url": "https://github.com/yt-dlp/yt-dlp",
+  "description": "Command-line audio/video downloader",
+  "language": "Python",
+  "stars": 210056,
+  "license": ""
+ },
+ {
+  "rank": 30,
+  "full_name": "DigitalPlatDev/FreeDomain",
+  "url": "https://github.com/DigitalPlatDev/FreeDomain",
+  "description": "Free domain registration and DNS learning",
+  "language": "Markdown",
+  "stars": 208990,
+  "license": ""
+ },
+ {
+  "rank": 31,
+  "full_name": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "description": "Search scrape and data API for agents",
+  "language": "TypeScript",
+  "stars": 207238,
+  "license": ""
+ },
+ {
+  "rank": 32,
+  "full_name": "tensorflow/tensorflow",
+  "url": "https://github.com/tensorflow/tensorflow",
+  "description": "Open source machine learning framework",
+  "language": "C++",
+  "stars": 201784,
+  "license": "Apache-2.0"
+ },
+ {
+  "rank": 33,
+  "full_name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars": 199127,
+  "license": ""
+ },
+ {
+  "rank": 34,
+  "full_name": "microsoft/markitdown",
+  "url": "https://github.com/microsoft/markitdown",
+  "description": "Convert files and office documents to Markdown",
+  "language": "Python",
+  "stars": 197929,
+  "license": ""
+ },
+ {
+  "rank": 35,
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "AI agent prompt/behavior toolkit",
+  "language": "JavaScript",
+  "stars": 197030,
+  "license": ""
+ },
+ {
+  "rank": 36,
+  "full_name": "trekhleb/javascript-algorithms",
+  "url": "https://github.com/trekhleb/javascript-algorithms",
+  "description": "Algorithms and data structures in JavaScript",
+  "language": "JavaScript",
+  "stars": 196766,
+  "license": ""
+ },
+ {
+  "rank": 37,
+  "full_name": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "description": "Visual Studio Code",
+  "language": "TypeScript",
+  "stars": 195796,
+  "license": "MIT"
+ },
+ {
+  "rank": 38,
+  "full_name": "avelino/awesome-go",
+  "url": "https://github.com/avelino/awesome-go",
+  "description": "Curated list of Go frameworks and libraries",
+  "language": "Go",
+  "stars": 195476,
+  "license": ""
+ },
+ {
+  "rank": 39,
+  "full_name": "ultraworkers/claw-code",
+  "url": "https://github.com/ultraworkers/claw-code",
+  "description": "Agent-managed exhibit built autonomously",
+  "language": "Rust",
+  "stars": 194732,
+  "license": ""
+ },
+ {
+  "rank": 40,
+  "full_name": "ohmyzsh/ohmyzsh",
+  "url": "https://github.com/ohmyzsh/ohmyzsh",
+  "description": "Framework for managing zsh configuration",
+  "language": "",
+  "stars": 190855,
+  "license": ""
+ },
+ {
+  "rank": 41,
+  "full_name": "jackfrued/Python-100-Days",
+  "url": "https://github.com/jackfrued/Python-100-Days",
+  "description": "Python 100 days course",
+  "language": "Python",
+  "stars": 187984,
+  "license": ""
+ },
+ {
+  "rank": 42,
+  "full_name": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "description": "Run local LLMs",
+  "language": "Go",
+  "stars": 187896,
+  "license": ""
+ },
+ {
+  "rank": 43,
+  "full_name": "getify/You-Dont-Know-JS",
+  "url": "https://github.com/getify/You-Dont-Know-JS",
+  "description": "Book series on JavaScript",
+  "language": "",
+  "stars": 184866,
+  "license": ""
+ },
+ {
+  "rank": 44,
+  "full_name": "flutter/flutter",
+  "url": "https://github.com/flutter/flutter",
+  "description": "Cross-platform UI framework",
+  "language": "Dart",
+  "stars": 181467,
+  "license": ""
+ },
+ {
+  "rank": 45,
+  "full_name": "github/gitignore",
+  "url": "https://github.com/github/gitignore",
+  "description": "Collection of useful gitignore templates",
+  "language": "",
+  "stars": 176428,
+  "license": ""
+ },
+ {
+  "rank": 46,
+  "full_name": "Hack-with-Github/Awesome-Hacking",
+  "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+  "description": "Collection of hacking resources",
+  "language": "",
+  "stars": 126299,
+  "license": ""
+ },
+ {
+  "rank": 47,
+  "full_name": "electron/electron",
+  "url": "https://github.com/electron/electron",
+  "description": "Build cross-platform desktop apps",
+  "language": "C++",
+  "stars": 124064,
+  "license": ""
+ },
+ {
+  "rank": 48,
+  "full_name": "microsoft/generative-ai-for-beginners",
+  "url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "description": "Generative AI course for beginners",
+  "language": "",
+  "stars": 124038,
+  "license": ""
+ },
+ {
+  "rank": 49,
+  "full_name": "nodejs/node",
+  "url": "https://github.com/nodejs/node",
+  "description": "Node.js JavaScript runtime",
+  "language": "JavaScript",
+  "stars": 123947,
+  "license": ""
+ },
+ {
+  "rank": 50,
+  "full_name": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "description": "Multi-agent LLM trading framework",
+  "language": "Python",
+  "stars": 123529,
+  "license": ""
+ },
+ {
+  "rank": 51,
+  "full_name": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "description": "Rust programming language",
+  "language": "Rust",
+  "stars": 122425,
+  "license": ""
+ },
+ {
+  "rank": 52,
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "Skill + local proxy for coding agents",
+  "language": "Go",
+  "stars": 122218,
+  "license": ""
+ },
+ {
+  "rank": 53,
+  "full_name": "huggingface/transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "description": "State-of-the-art ML models",
+  "language": "Python",
+  "stars": 0,
+  "license": ""
+ },
+ {
+  "rank": 54,
+  "full_name": "kubernetes/kubernetes",
+  "url": "https://github.com/kubernetes/kubernetes",
+  "description": "Container orchestration system",
+  "language": "Go",
+  "stars": 0,
+  "license": ""
+ },
+ {
+  "rank": 55,
+  "full_name": "shadcn-ui/ui",
+  "url": "https://github.com/shadcn-ui/ui",
+  "description": "Re-usable UI components",
+  "language": "TypeScript",
+  "stars": 0,
+  "license": ""
+ },
+ {
+  "rank": 56,
+  "full_name": "react/react-native",
+  "url": "https://github.com/react/react-native",
+  "description": "Framework for native apps with React",
+  "language": "JavaScript",
+  "stars": 0,
+  "license": ""
+ }
+]
